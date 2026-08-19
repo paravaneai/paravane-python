@@ -44,7 +44,7 @@ dev = [
 [project.urls]
 Homepage = "https://paravane.io"
 Documentation = "https://github.com/paravaneai/paravane-python#documentation"
-Changelog = "https://github.com/paravaneai/paravane-python/blob/main/CHANGELOG.md"
+Changelog = "https://paravane.io/pages/docs/smtprs/changelog"
 Source = "https://github.com/paravaneai/paravane-python"
 Issues = "https://github.com/paravaneai/paravane-python/issues"
 
