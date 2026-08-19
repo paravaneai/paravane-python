@@ -1,15 +1,15 @@
 # Changelog
 
-All notable changes to the Paravane Python SDK are documented here.
+The official changelog for **smtpRS** and the **Paravane Python SDK** is maintained here:
 
-## [1.0.2] - 2026-08-19
+https://paravane.io/pages/docs/smtprs/changelog
 
-- Align package and runtime versions at `1.0.2`.
-- Support Python 3.10 through 3.13 and require a security-current `requests` release.
-- Add typed smtpRS organization, documentary-association, and logo response metadata.
-- Preserve layer output, usage event IDs, and idempotency replay status in typed analyses.
-- Prevent automatic retries of billable POST requests without an idempotency key.
-- Remove the internal-only tenant override from the public analysis interface.
-- Add production PyPI Trusted Publishing and refresh release documentation.
+It provides a consolidated history of product and SDK updates, including:
 
-[1.0.2]: https://github.com/paravaneai/paravane-python/releases/tag/v1.0.2
+* smtpRS API changes
+* Paravane Python SDK releases
+* New features and response fields
+* Compatibility and migration guidance
+* Bug fixes and deprecations
+
+Use the changelog to review release history, integration-impacting changes, and updates that may affect existing implementations.
